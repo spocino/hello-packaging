@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.spocino.hello-packaging package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.spocino.hello-packaging\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-01 21:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:18 data/hello-packaging.appdata.xml.in:6
+msgid "Hello Packaging"
+msgstr ""
+
+#: src/Application.vala:21
+msgid "Hello Flatpak!"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:3
+msgid "Hello Packagings"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:4
+msgid "Hello World App"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:5
+msgid "Proves that we can build an application for Flatpak on ElementaryOS"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:8
+msgid "com.github.spocino.hello-packaging"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:11
+msgid "Hello;World;Example;Flatpak;"
+msgstr ""
+
+#: data/hello-packaging.appdata.xml.in:7
+msgid "Simple Hello World App for Flatpak"
+msgstr ""
+
+#: data/hello-packaging.appdata.xml.in:9
+msgid "Has a label that says \"Hello Flatpak!\""
+msgstr ""
