@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Hello Packagings
+Name=Hello Packaging
 GenericName=Hello World App
 Comment=Proves that we can build an application for Flatpak on ElementaryOS
 Categories=Utility;Education;

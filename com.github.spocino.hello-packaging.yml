@@ -1,0 +1,19 @@
+app-id: com.github.spocino.hello-packaging
+
+runtime: io.elementary.Platform
+runtime-version: '6'
+sdk: io.elementary.Sdk
+
+command: com.github.spocino.hello-packaging
+
+finish-args:
+  - '--share=ipc'
+  - '--socket=fallback-x11'
+  - '--socket=wayland'
+
+modules:
+  - name: hello-again
+    buildsystem: meson
+    sources:
+      - type: dir
+        path: .
