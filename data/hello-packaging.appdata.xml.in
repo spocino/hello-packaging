@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Samuel Pocino <sam.pocino@gmail.com> -->
+<component type="desktop">
+  <id>com.github.spocino.hello-packaging</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Packaging</name>
+  <summary>Simple Hello World App for Flatpak</summary>
+  <description>
+    <p>Has a label that says "Hello Flatpak!"</p>
+  </description>
+</component>

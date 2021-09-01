@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Packagings
+GenericName=Hello World App
+Comment=Proves that we can build an application for Flatpak on ElementaryOS
+Categories=Utility;Education;
+Exec=com.github.spocino.hello-packaging
+Icon=com.github.spocino.hello-packaging
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;Flatpak;
